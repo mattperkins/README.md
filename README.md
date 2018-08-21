@@ -4,10 +4,8 @@
 > <a href="http://dormshed.com">DORM*shed*</a>
 
 
-<div width="300px">
-**DESIGN** : DORM*shed* specialises in the design and programming of web and mobile platforms. Using latest technologies we render performant, optimised and future proof systems.
-</div>
 
-<div width="300px">
+**DESIGN** : DORM*shed* specialises in the design and programming of web and mobile platforms. Using latest technologies we render performant, optimised and future proof systems.
+
+
 **BUILD** : From pre-production planning meetings through to deployment, our engineering philosophy is driven by singular focus on customer satisfaction and healthy collaboration.
-</div>
