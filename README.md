@@ -4,8 +4,10 @@
 > <a href="http://dormshed.com">DORM*shed*</a>
 
 
-
 **DESIGN** : DORM*shed* specialises in the design and programming of web and mobile platforms. Using latest technologies we render performant, optimised and future proof systems.
 
 
 **BUILD** : From pre-production planning meetings through to deployment, our engineering philosophy is driven by singular focus on customer satisfaction and healthy collaboration.
+
+
+**LAUNCH** : Fully tested, optimised and packaged, we love to ship! Your new projects, apps, sites, microservices and initiatives keep us inspired / motivated. Get in touch and lets work.
