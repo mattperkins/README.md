@@ -2,3 +2,7 @@
 <img align="left" width="0" height="192px" hspace=10/>
 
 > <a href="http://dormshed.com">DORMshed</a>
+
+```
+DESIGN : DORMshed specialises in the design and programming of web and mobile platforms. Using latest technologies we render performant, optimised and future proof systems.
+```
