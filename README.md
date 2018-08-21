@@ -10,4 +10,4 @@
 **BUILD** : From pre-production planning meetings through to `deployment`, our engineering philosophy is driven by singular focus on customer `satisfaction` and healthy collaboration.
 
 
-**LAUNCH** : Fully tested, optimised and packaged, we `love` to ship! Your new projects, apps, sites, microservices and initiatives keep us `inspired` / motivated. Get in touch and lets `work`.
+**LAUNCH** : Fully tested, `optimised` and packaged, we love to ship! Your new projects, apps, sites, microservices and initiatives keep us `inspired` / motivated. Get in touch and lets `work`.
