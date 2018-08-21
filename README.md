@@ -1,5 +1,5 @@
 <img src="http://dormshed.com/static/img/shed.svg" align="left" width="192px" height="192px" />
-<img align="left" width="0" height="300px" hspace=10/>
+<img align="left" width="0" height="350px" hspace=10/>
 
 > <a href="http://dormshed.com">DORM*shed*</a> `Elevating.` `Ideas.`
 
@@ -12,6 +12,8 @@
 
 **LAUNCH** : Fully tested, `optimised` and packaged, we love to ship! Your new projects, apps, sites, microservices and initiatives keep us `inspired` / motivated. Get in touch and lets `work`.
 
+[lottie@dormshed.com](lottie@dormshed.com)
+
 ```Javascript
-console.log("lottie@dormshed.com")
+console.log("Have a great day!!!")
 ```
