@@ -12,7 +12,7 @@
 
 **LAUNCH** : Fully tested, `optimised` and packaged, we love to ship! Your new projects, apps, sites, microservices and initiatives keep us `inspired` / motivated. Get in touch and lets `work`.
 
-`Email` : <a href="mailto:lottie@dormshed.com">lottie@dormshed.com</a>
+`Email :` <a href="mailto:lottie@dormshed.com">lottie@dormshed.com</a>
 
 ```Javascript
 console.log("Have a great day!!!")
