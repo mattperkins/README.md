@@ -3,6 +3,8 @@
 
 > <a href="http://dormshed.com">DORMshed</a>
 
+<div width="300px">
 ```
 DESIGN : DORMshed specialises in the design and programming of web and mobile platforms. Using latest technologies we render performant, optimised and future proof systems.
 ```
+</div>
