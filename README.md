@@ -1,18 +1,11 @@
-<img src="http://dormshed.com/static/img/shed.svg" align="left" width="192px" height="192px" />
+<img src="https://fav.mattperkins.com/favicon.png" align="left" width="192px" height="192px" />
 <img align="left" width="0" height="320px" hspace=10/>
 
-> [DORM*shed*](http://dormshed.com) `Elevating.` `Ideas.`
+> [LATEST](http://---.com) `Elevating.` `Ideas.`
 
+**DESIGN** : Specialising in `design` and `programming` for web, mobile, desktop and robotic platforms. Keen interest in latest technologies to render performant, optimised and future proof systems.
 
-**DESIGN** : DORM*shed* specialises in the `design` and `programming` of web and mobile platforms. Using latest technologies we render performant, optimised and future proof systems.
-
-
-**BUILD** : From pre-production planning meetings through to `deployment`, our engineering philosophy is driven by singular focus on customer `satisfaction` and healthy collaboration.
-
-
-**LAUNCH** : Fully tested, `optimised` and packaged, we love to ship! Your new projects, apps, sites, microservices and initiatives keep us `inspired` / motivated. Get in touch and lets `work`.
-
-`Email` <a href="mailto:lottie@dormshed.com">lottie@dormshed.com</a>
+`Email` <a href="mailto:--@--.com">gthb1@dormshed.com</a>
 
 ```Javascript
 console.log("Have a great day!!!")
